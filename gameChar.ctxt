@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=gameChar
+comment1.params=x\ y
+comment1.target=gameChar(double,\ double)
+numComments=2
